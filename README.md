@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm 多肉生物</h1>
 <h3 align="center">Japan enthusiast & Plant lover(also mushrooms,mushroom is life)</h3>
+### Feel free to contact me!　日本語でもOKです！
 
 - 🌱 I’m currently learning **Rust!**
 
