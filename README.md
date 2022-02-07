@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning **Rust!**
 - I'm a fRoNtEnD EnGiNeEr myself.
+- Trying back to linux
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
