@@ -3,8 +3,7 @@
 <h3 align="center"> Feel free to contact me!　日本語でもOKです！</h3>
 
 - 🌱 I’m currently learning **Rust!**
-- I'm a fRoNtEnD EnGiNeEr myself.
-- Trying back to linux
+- :sound: I'm a fRoNtEnD EnGiNeEr myself.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
